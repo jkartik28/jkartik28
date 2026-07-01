@@ -1,233 +1,187 @@
-<h1 align="center">Hi 👋, I'm Kartik Jain</h1>
-
-<h3 align="center">
-Aspiring Data Scientist • Data Analyst • Python Developer • AI Enthusiast
-</h3>
+<h1 align="center">Hello Everyone 👋, I'm Kartik Jain</h1>
 
 <p align="center">
-Passionate about turning data into insights and building intelligent AI-powered solutions.
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=650&lines=Aspiring+Data+Scientist;Data+Analyst;Python+Developer;AI+%26+Machine+Learning+Enthusiast;Lifelong+Learner+🚀" alt="Typing SVG" />
+  </a>
+</p>
+
+<h3 align="center">Aspiring Data Scientist | Data Analyst | Python Developer</h3>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=jkartik28&label=Profile%20Views&color=0e75b6&style=flat" alt="jkartik28" />
 </p>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3500&pause=1000&color=00C4FF&center=true&vCenter=true&width=900&lines=Welcome+to+My+GitHub!;Data+Science+%7C+Python+%7C+SQL+%7C+Power+BI;Machine+Learning+Enthusiast;Future+AI+Engineer;Always+Learning+Something+New+🚀" />
+  <a href="https://github.com/jkartik28">
+    <img src="https://img.shields.io/github/followers/jkartik28?label=Followers&style=for-the-badge&color=blue" />
+  </a>
+  <a href="https://www.linkedin.com/in/kartik-jain-a4357031b">
+    <img src="https://img.shields.io/badge/LinkedIn-Kartik%20Jain-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="mailto:kartikjain407@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact%20Me-red?style=for-the-badge&logo=gmail" />
+  </a>
 </p>
 
 ---
 
-## 🚀 About Me
+# 👋 About Me
 
-I'm **Kartik Jain**, a passionate **BCA Graduate** with a strong interest in **Data Science, Artificial Intelligence, Machine Learning, and Python Development**.
+Hi, I'm **Kartik Jain** — a passionate **BCA Graduate** with a strong interest in **Data Science, Artificial Intelligence, Machine Learning, Python, and Data Analytics**.
 
-I enjoy solving real-world problems using data, building practical projects, and continuously learning modern technologies.
+I enjoy solving real-world problems through data, writing clean Python code, and continuously learning modern technologies.
 
-Currently focusing on:
+Currently focusing on **Python, SQL, NumPy, Pandas, Power BI, Machine Learning, and Generative AI**.
 
-- 🐍 Python Programming
-- 🗄 SQL & MySQL
-- 📊 Data Analysis
-- 📈 Power BI
-- 🤖 Machine Learning
-- 🧠 Generative AI
+🚀 My goal is to become a professional **Data Scientist** and **AI Engineer**.
 
 ---
 
-## 🎯 Career Objective
+# 🔭 What I'm Currently Working On
 
-My goal is to become a **Data Scientist** and eventually an **AI Engineer**, building intelligent applications that solve real-world business problems using data and artificial intelligence.
+- 🐍 Improving Python Programming
+- 🗄 Learning Advanced SQL & MySQL
+- 📊 Building Data Analysis Projects
+- 📈 Creating Power BI Dashboards
+- 🤖 Learning Machine Learning
+- 🧠 Exploring Generative AI & LLMs
 
 ---
 
-# 💻 Tech Stack
+# 🛠 Skills
 
-### 👨‍💻 Programming
+<p align="center">
 
-<p>
-<img src="https://skillicons.dev/icons?i=python,mysql,git,github,vscode" />
-</p>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/>
 
-### 📊 Data Science
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="40" height="40"/>
 
-<p>
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="40" height="40"/>
 
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="40" height="40"/>
 
-<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40" height="40"/>
 
-<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="40" height="40"/>
 
-<img src="https://img.shields.io/badge/Seaborn-4C78A8?style=for-the-badge"/>
-</p>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="40" height="40"/>
 
-### 📈 Data Visualization
+<img src="https://cdn.worldvectorlogo.com/logos/power-bi.svg" width="40" height="40"/>
 
-<p>
-<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
-
-<img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
-</p>
-
-### 🛠 Tools
-
-<p>
-<img src="https://img.shields.io/badge/Jupyter_Notebook-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=black"/>
 </p>
 
 ---
 
-# 📚 Currently Learning
-
-- Python Programming
-- SQL & MySQL
-- NumPy
-- Pandas
-- Statistics for Data Science
-- Power BI
-- Machine Learning
-- Deep Learning
-- Generative AI
-- Large Language Models (LLMs)
-
----
-
-# 🚀 Current Goals
-
-✔ Master SQL
-
-✔ Become Advanced in Python
-
-✔ Build End-to-End Data Science Projects
-
-✔ Learn Machine Learning & Deep Learning
-
-✔ Explore Generative AI
-
-✔ Contribute to Open Source
-
----
-
-# 📂 Featured Projects
+# 📌 Featured Projects
 
 ### 📊 Data Analysis Projects
 
-Analyze real-world datasets using Python, Pandas, NumPy, and Matplotlib.
+Analyze real-world datasets using **Python, Pandas, NumPy, Matplotlib & Seaborn**
 
-🚧 Coming Soon...
+🔗 *Coming Soon...*
 
 ---
 
 ### 🐍 Python Practice
 
-A collection of Python programs from beginner to advanced level.
+Collection of beginner to advanced Python programs.
 
-🚧 Coming Soon...
+🔗 *Coming Soon...*
 
 ---
 
-### 🗄 SQL Practice
+### 🗄 SQL & MySQL Practice
 
-SQL queries covering CRUD Operations, Joins, Aggregate Functions, Constraints, Views, and Stored Procedures.
+CRUD Operations, Joins, Functions, Constraints, Views and Database Projects.
 
-🚧 Coming Soon...
+🔗 *Coming Soon...*
 
 ---
 
 ### 📈 Power BI Dashboard
 
-Interactive dashboards with business insights.
+Interactive business dashboards with meaningful insights.
 
-🚧 Coming Soon...
+🔗 *Coming Soon...*
 
 ---
 
 ### 🤖 Machine Learning Projects
 
-Regression, Classification, Clustering, Recommendation Systems, and Prediction Models.
+Regression, Classification, Clustering and Prediction Models.
 
-🚧 Coming Soon...
+🔗 *Coming Soon...*
 
 ---
 
 # 📜 Certifications
 
 - ✅ Python Developer Internship – Developers Arena
-- ✅ Data Science (In Progress)
-- ✅ SQL & Database Management (Learning)
+- ✅ Data Science (Learning)
+- ✅ SQL & MySQL (Learning)
 
 ---
 
-# 📊 GitHub Statistics
+# 📫 How to Reach Me
 
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=jkartik28&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jkartik28&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
-# 🔥 GitHub Streak
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=jkartik28&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
-# 📈 Contribution Graph
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=jkartik28&theme=tokyo-night"/>
-
-</p>
-
----
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=jkartik28&theme=tokyonight&column=4&margin-w=15&margin-h=15"/>
-
-</p>
-
----
-
-# 📫 Connect With Me
-
-📧 **Email**
-
+📧 **Email:**  
 **kartikjain407@gmail.com**
 
-💼 **LinkedIn**
-
+💼 **LinkedIn:**  
 https://www.linkedin.com/in/kartik-jain-a4357031b
 
-🐙 **GitHub**
-
+🐙 **GitHub:**  
 https://github.com/jkartik28
 
 ---
 
-# 💭 Quote
+# 📊 GitHub Stats
 
-> **"Every expert was once a beginner. Consistency and curiosity create extraordinary careers."**
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=jkartik28&show_icons=true&theme=radical" />
+</p>
+
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=jkartik28&theme=radical" />
+</p>
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=jkartik28&show_icons=true&locale=en&layout=compact&theme=radical" />
+</p>
 
 ---
 
-<div align="center">
+# 🏆 GitHub Achievements
 
-### ⭐ Thanks for visiting my profile!
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=jkartik28&theme=radical&row=1&column=6"/>
+</p>
 
-If you like my work, consider ⭐ starring my repositories and connecting with me.
+---
 
-🚀 *Always Learning • Always Building • Always Growing*
+# 🧠 Data Science Roadmap
 
-</div>
+- ✅ Excel
+- ✅ Python
+- ✅ SQL & MySQL
+- ✅ Git & GitHub
+- 🔄 NumPy
+- 🔄 Pandas
+- 🔄 Data Visualization
+- 🔄 Power BI
+- 🔄 Statistics
+- 🔄 Machine Learning
+- 🔄 Deep Learning
+- 🔄 Generative AI
+- 🔄 Large Language Models (LLMs)
+
+---
+
+# 💡 Career Objective
+
+My objective is to become a skilled **Data Scientist** and **AI Engineer**, leveraging Python, Machine Learning, and Artificial Intelligence to solve real-world problems and create impactful solutions.
+
+---
+
+⭐ **Always open to learning, collaborating on exciting projects, and exploring new opportunities!** 🚀
