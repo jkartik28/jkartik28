@@ -1,183 +1,233 @@
 <h1 align="center">Hi 👋, I'm Kartik Jain</h1>
-<h3 align="center">🚀 Aspiring Data Scientist | Data Analyst | Python Developer | AI Enthusiast</h3>
+
+<h3 align="center">
+Aspiring Data Scientist • Data Analyst • Python Developer • AI Enthusiast
+</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3500&color=36BCF7&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub+Profile!;Aspiring+Data+Scientist;Python+Developer;SQL+%7C+Power+BI+%7C+Machine+Learning;Always+Learning+New+Technologies+🚀" />
+Passionate about turning data into insights and building intelligent AI-powered solutions.
+</p>
+
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3500&pause=1000&color=00C4FF&center=true&vCenter=true&width=900&lines=Welcome+to+My+GitHub!;Data+Science+%7C+Python+%7C+SQL+%7C+Power+BI;Machine+Learning+Enthusiast;Future+AI+Engineer;Always+Learning+Something+New+🚀" />
 </p>
 
 ---
 
-## 👨‍💻 About Me
+## 🚀 About Me
 
-🎓 BCA Graduate passionate about **Data Science, Data Analytics, Artificial Intelligence, and Python Development.**
+I'm **Kartik Jain**, a passionate **BCA Graduate** with a strong interest in **Data Science, Artificial Intelligence, Machine Learning, and Python Development**.
 
-💡 I enjoy solving real-world problems using data and continuously improving my technical skills.
+I enjoy solving real-world problems using data, building practical projects, and continuously learning modern technologies.
 
-🌱 Currently Learning:
-- 🐍 Python
+Currently focusing on:
+
+- 🐍 Python Programming
 - 🗄 SQL & MySQL
-- 📊 Power BI
-- 🐼 Pandas & NumPy
+- 📊 Data Analysis
+- 📈 Power BI
 - 🤖 Machine Learning
 - 🧠 Generative AI
 
-🎯 **Career Goal:** Become a Data Scientist / AI Engineer and build impactful AI-powered solutions.
+---
+
+## 🎯 Career Objective
+
+My goal is to become a **Data Scientist** and eventually an **AI Engineer**, building intelligent applications that solve real-world business problems using data and artificial intelligence.
 
 ---
 
-## 🚀 What I'm Currently Working On
+# 💻 Tech Stack
 
-- 📚 Mastering SQL & MySQL
-- 🐍 Python Programming
-- 📊 Data Analysis Projects
-- 📈 Power BI Dashboards
-- 🤖 Machine Learning Projects
-- 💼 Preparing for Data Science Interviews
+### 👨‍💻 Programming
 
----
+<p>
+<img src="https://skillicons.dev/icons?i=python,mysql,git,github,vscode" />
+</p>
 
-## 💻 Tech Stack
+### 📊 Data Science
 
-### Programming Languages
+<p>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
 
-### Database
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
 
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge"/>
 
-### Data Science
+<img src="https://img.shields.io/badge/Seaborn-4C78A8?style=for-the-badge"/>
+</p>
 
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+### 📈 Data Visualization
 
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+<p>
+<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
 
-![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+<img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
+</p>
 
-### Visualization
+### 🛠 Tools
 
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+<p>
+<img src="https://img.shields.io/badge/Jupyter_Notebook-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
 
-![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
-
-### Tools
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=Jupyter&logoColor=white)
+<img src="https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=black"/>
+</p>
 
 ---
 
-## 📂 Featured Projects
+# 📚 Currently Learning
 
-📊 **Student Data Analysis Project**
-
-🔗 https://github.com/jkartik28
-
----
-
-🐍 **Python Practice**
-
-🔗 https://github.com/jkartik28
-
----
-
-🗄 **SQL & MySQL Practice**
-
-🔗 https://github.com/jkartik28
+- Python Programming
+- SQL & MySQL
+- NumPy
+- Pandas
+- Statistics for Data Science
+- Power BI
+- Machine Learning
+- Deep Learning
+- Generative AI
+- Large Language Models (LLMs)
 
 ---
 
-📈 **Power BI Dashboard**
+# 🚀 Current Goals
 
-🔗 Coming Soon...
+✔ Master SQL
 
----
+✔ Become Advanced in Python
 
-🤖 **Machine Learning Projects**
+✔ Build End-to-End Data Science Projects
 
-🔗 Coming Soon...
+✔ Learn Machine Learning & Deep Learning
 
----
+✔ Explore Generative AI
 
-## 📜 Certifications
-
-✔ Python Developer Internship – Developers Arena
-
-✔ Data Science (In Progress)
-
-✔ SQL & Python Practice
+✔ Contribute to Open Source
 
 ---
 
-## 📈 Learning Roadmap
+# 📂 Featured Projects
 
-✅ Python
+### 📊 Data Analysis Projects
 
-✅ SQL
+Analyze real-world datasets using Python, Pandas, NumPy, and Matplotlib.
 
-✅ MySQL
-
-✅ Git & GitHub
-
-✅ Excel
-
-🔄 Power BI
-
-🔄 NumPy
-
-🔄 Pandas
-
-🔄 Machine Learning
-
-🔄 Deep Learning
-
-🔄 Generative AI
+🚧 Coming Soon...
 
 ---
 
-## 🌐 Connect with Me
+### 🐍 Python Practice
 
-📧 **Email:** your-email@example.com
+A collection of Python programs from beginner to advanced level.
 
-💼 **LinkedIn:** https://linkedin.com/in/your-linkedin
-
-🐙 **GitHub:** https://github.com/jkartik28
+🚧 Coming Soon...
 
 ---
 
-## 📊 GitHub Stats
+### 🗄 SQL Practice
 
-![](https://github-readme-stats.vercel.app/api?username=jkartik28&show_icons=true&theme=tokyonight)
+SQL queries covering CRUD Operations, Joins, Aggregate Functions, Constraints, Views, and Stored Procedures.
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=jkartik28&theme=tokyonight)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=jkartik28&layout=compact&theme=tokyonight)
+🚧 Coming Soon...
 
 ---
 
-## 🏆 GitHub Trophies
+### 📈 Power BI Dashboard
 
-![](https://github-profile-trophy.vercel.app/?username=jkartik28&theme=onedark&row=1&column=6)
+Interactive dashboards with business insights.
 
----
-
-## 👀 Profile Views
-
-![](https://komarev.com/ghpvc/?username=jkartik28&label=Profile%20Views&color=0e75b6&style=flat)
+🚧 Coming Soon...
 
 ---
 
-## 💡 Quote
+### 🤖 Machine Learning Projects
 
-> **"Data is the new oil, but insights are the real fuel."**
+Regression, Classification, Clustering, Recommendation Systems, and Prediction Models.
+
+🚧 Coming Soon...
 
 ---
+
+# 📜 Certifications
+
+- ✅ Python Developer Internship – Developers Arena
+- ✅ Data Science (In Progress)
+- ✅ SQL & Database Management (Learning)
+
+---
+
+# 📊 GitHub Statistics
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=jkartik28&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jkartik28&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 🔥 GitHub Streak
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=jkartik28&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 📈 Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=jkartik28&theme=tokyo-night"/>
+
+</p>
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=jkartik28&theme=tokyonight&column=4&margin-w=15&margin-h=15"/>
+
+</p>
+
+---
+
+# 📫 Connect With Me
+
+📧 **Email**
+
+**kartikjain407@gmail.com**
+
+💼 **LinkedIn**
+
+https://www.linkedin.com/in/kartik-jain-a4357031b
+
+🐙 **GitHub**
+
+https://github.com/jkartik28
+
+---
+
+# 💭 Quote
+
+> **"Every expert was once a beginner. Consistency and curiosity create extraordinary careers."**
+
+---
+
+<div align="center">
 
 ### ⭐ Thanks for visiting my profile!
 
-If you like my work, don't forget to ⭐ my repositories and connect with me.
+If you like my work, consider ⭐ starring my repositories and connecting with me.
+
+🚀 *Always Learning • Always Building • Always Growing*
+
+</div>
