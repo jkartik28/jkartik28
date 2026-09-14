@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Kartik Jain</h1>
 
 <h3 align="center">
-Aspiring Data Scientist | Python Developer | Data Analyst
+Aspiring Data Scientist | Data Analyst | Python Developer
 </h3>
 
 <p align="center">
-Passionate about transforming data into meaningful insights and building real-world AI & Data Science projects.
+Passionate about data, Python, analytics, and building practical projects to solve real-world problems.
 </p>
 
 <p align="center">
@@ -13,6 +13,7 @@ Passionate about transforming data into meaningful insights and building real-wo
 </p>
 
 <p align="center">
+
 <a href="https://github.com/jkartik28">
 <img src="https://img.shields.io/github/followers/jkartik28?style=for-the-badge&logo=github&label=Followers"/>
 </a>
@@ -24,32 +25,37 @@ Passionate about transforming data into meaningful insights and building real-wo
 <a href="mailto:kartikjain407@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-kartikjain407@gmail.com-red?style=for-the-badge&logo=gmail"/>
 </a>
+
 </p>
 
 ---
 
 # 👨‍💻 About Me
 
-- 🎓 BCA Graduate
-- 📊 Aspiring Data Scientist & Data Analyst
-- 🐍 Passionate about Python Programming
-- 📈 Learning SQL, Power BI & Machine Learning
-- 🤖 Exploring Artificial Intelligence & Generative AI
-- 🚀 Love building practical projects and solving real-world problems
-- 🌱 Always learning new technologies
+* 🎓 BCA Graduate
+* 📊 Aspiring Data Scientist & Data Analyst
+* 🐍 Building my skills in Python Programming
+* 🗄 Learning SQL & MySQL for data analysis and databases
+* 📈 Working with NumPy, Pandas, Matplotlib & Power BI
+* 🤖 Exploring Machine Learning and Artificial Intelligence
+* 💡 Interested in turning raw data into meaningful insights
+* 🚀 Love building practical projects and improving my problem-solving skills
+* 🌱 Always learning and exploring new technologies
 
 ---
 
 # 🚀 Currently Learning
 
-- Python
-- SQL & MySQL
-- NumPy
-- Pandas
-- Power BI
-- Statistics
-- Machine Learning
-- Generative AI
+* 🐍 Python
+* 🗄 SQL & MySQL
+* 🔢 NumPy
+* 🐼 Pandas
+* 📊 Matplotlib
+* 📈 Power BI
+* 📐 Statistics
+* 🤖 Machine Learning
+* 🧠 Data Science
+* ✨ Generative AI
 
 ---
 
@@ -57,7 +63,7 @@ Passionate about transforming data into meaningful insights and building real-wo
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=python,mysql,git,github,vscode"/>
+<img src="https://skillicons.dev/icons?i=python,mysql,git,github,vscode,html,css,js"/>
 
 </p>
 
@@ -65,13 +71,17 @@ Passionate about transforming data into meaningful insights and building real-wo
 
 <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
 
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=matplotlib&logoColor=white"/>
 
 <img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
 
-<img src="https://img.shields.io/badge/Machine%20Learning-orange?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
 
 <img src="https://img.shields.io/badge/Data%20Science-blue?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Machine%20Learning-orange?style=for-the-badge"/>
 
 </p>
 
@@ -80,49 +90,55 @@ Passionate about transforming data into meaningful insights and building real-wo
 # 📂 Featured Projects
 
 ### 📊 Data Analysis Projects
-Analyze datasets using Python, Pandas, NumPy, Matplotlib and Seaborn.
+
+Real-world data analysis projects using Python, Pandas, NumPy, Matplotlib and other data analytics tools.
+
+🔗 Explore my repositories:
+https://github.com/jkartik28
+
+---
+
+### 🐍 Python Projects
+
+Python projects focused on programming fundamentals, problem-solving, automation and practical applications.
+
+🔗 Explore my repositories:
+https://github.com/jkartik28
+
+---
+
+### 🗄 SQL & MySQL Projects
+
+Database management projects involving SQL queries, CRUD operations, joins, functions, data manipulation and database design.
 
 🔗 Coming Soon...
 
 ---
 
-### 🐍 Python Practice
+### 📈 Power BI Dashboards
 
-Solved Python problems from beginner to advanced.
-
-🔗 Coming Soon...
-
----
-
-### 🗄 SQL & MySQL
-
-Database creation, CRUD Operations, Joins, Functions and Projects.
+Interactive dashboards designed to analyze data, identify trends and present meaningful business insights.
 
 🔗 Coming Soon...
 
 ---
 
-### 📈 Power BI Dashboard
+### 🤖 Machine Learning Projects
 
-Interactive dashboards and business insights.
-
-🔗 Coming Soon...
-
----
-
-### 🤖 Machine Learning
-
-Prediction and Classification Projects.
+Exploring machine learning concepts through prediction, classification and real-world datasets.
 
 🔗 Coming Soon...
 
 ---
 
-# 📜 Certifications
+# 📜 Experience & Certifications
 
-- ✅ Python Developer Internship – Developers Arena
-- ✅ Data Science (Learning)
-- ✅ SQL & MySQL (Learning)
+* 💼 Python Developer Internship – Developers Arena
+* 🐍 Python Programming
+* 📊 Data Analytics
+* 🗄 SQL & MySQL
+* 🧠 Data Science – Learning
+* 🤖 Machine Learning – Learning
 
 ---
 
@@ -166,22 +182,21 @@ Prediction and Classification Projects.
 
 # 🎯 Career Objective
 
-I aim to build a successful career in **Data Science, Artificial Intelligence, and Machine Learning** by continuously learning, building impactful projects, and solving real-world business problems using data.
+My goal is to build a successful career in **Data Analytics, Data Science, Artificial Intelligence and Machine Learning**.
+
+I am continuously improving my technical skills, working on practical projects and learning how to use data to solve real-world problems and create meaningful insights.
 
 ---
 
 # 📫 Connect With Me
 
 📧 **Email**
-
-**kartikjain407@gmail.com**
+**[kartikjain407@gmail.com](mailto:kartikjain407@gmail.com)**
 
 💼 **LinkedIn**
-
 https://www.linkedin.com/in/kartik-jain-a4357031b
 
 🐙 **GitHub**
-
 https://github.com/jkartik28
 
 ---
@@ -190,4 +205,4 @@ https://github.com/jkartik28
 
 ⭐ If you like my work, don't forget to **Star** my repositories and connect with me on LinkedIn.
 
-🚀 *Learning • Building • Growing Every Day*
+🚀 **Learning • Building • Improving • Growing**
